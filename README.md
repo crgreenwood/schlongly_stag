@@ -10,17 +10,15 @@
 6. From the Menu, go to Settings --> User --> Username and set your name.
 7. Try loading a game, from the main menu choose "Load Content" and select a game file.
 8. If you have a controller and it's plugged in it might just work, if it doesn't:  
-    1. Go back to menu, choose settings
-    2. Choose Input
-    3. Choose Port 1 Controls.
-    4. Device Index should show something that looks like your controller
-    5. Choose "Set All Controls" to setup all of the buttons.
-    
+   1. Go back to menu, choose settings
+   2. Choose Input
+   3. Choose Port 1 Controls.
+   4. Device Index should show something that looks like your controller
+   5. Choose "Set All Controls" to setup all of the buttons. 
 9. If you don't have a controller, the default keys are:
-    
-    * Arrow Keys for directions
-    * Enter for Start, Right Shift for Select
-    * The four buttons on the right hand of the controller are mapped to S - top, Z - bottom, A - left, X - right
+   * Arrow Keys for directions
+   * Enter for Start, Right Shift for Select
+   * The four buttons on the right hand of the controller are mapped to S - top, Z - bottom, A - left, X - right
     
 ## Netplay
 
