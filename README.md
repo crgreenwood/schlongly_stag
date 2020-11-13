@@ -1,7 +1,8 @@
 # RetroArch 
+
 ## Setup
 
-1. Using the provided Dropbox link download the Windows or Mac installer plus the games folder.
+1. Using the provided Dropbox link download the Windows or Mac installer plus the games folder
 2. Install RetroArch
 3. Run it for the first time, from the main menu choose "Load Core"
 4. Select "Download a Core"
@@ -9,7 +10,9 @@
 6. From the Menu, go to Settings --> User --> Username and set your name.
 7. Try loading a game, from the main menu choose "Load Content" and select a game file.
 8. If you have a controller and it's plugged in it might just work, if it doesn't:
-      
+
+## test
+     
     1. Go back to menu, choose settings
     2. Choose Input
     3. Choose Port 1 Controls.
