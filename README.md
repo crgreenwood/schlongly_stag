@@ -9,10 +9,7 @@
 5. In the list of Cores find "Nintendo - SNES / SFC (Snes9x - Current)", click it to install it.
 6. From the Menu, go to Settings --> User --> Username and set your name.
 7. Try loading a game, from the main menu choose "Load Content" and select a game file.
-8. If you have a controller and it's plugged in it might just work, if it doesn't:
-
-## test
-     
+8. If you have a controller and it's plugged in it might just work, if it doesn't:  
     1. Go back to menu, choose settings
     2. Choose Input
     3. Choose Port 1 Controls.
