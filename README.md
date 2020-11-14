@@ -3,7 +3,7 @@
 ## Setup
 
 1. Using the provided Dropbox link download the Windows or Mac installer plus the games folder
-2. Install RetroArch
+2. Install RetroArch - if you need a different installer (the ones in the folder don't work) try downloading one from here: https://www.retroarch.com/?page=platforms
 3. Run it for the first time, from the main menu choose **"Load Core"**
 4. Select **"Download a Core"**
 5. In the list of Cores find **"Nintendo - SNES / SFC (Snes9x - Current)"**, click it to install it.
